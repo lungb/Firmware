@@ -15,3 +15,6 @@ uint16 sample_rate
 float32 full_scale_range
 
 float32 vibration_metric	# high frequency vibration level in the IMU delta velocity data (m/s)
+
+bool calibrated
+bool enabled
